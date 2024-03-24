@@ -6,6 +6,8 @@ Feel free to use this how you like but do expect issues down the line. Either fi
 
 This is run using VBA. It has been made on Windows but I can't see why it won't run on mac.
 
+If you have any issues please raise an issue here or email sbate[at]mcrlibdems.uk and I will try and help.
+
 ### Maybe save the files in the tutorial folder and have a go before you use actual candidate names etc.
 
 ## Important
@@ -25,7 +27,7 @@ If you are an agent and you use this software/scripts, we/I take no responsibili
 - Feel free to add more data columns, but the data import section of the module will need to be changed to reflect this.
 - Download and open Template.xlsx and fill out the cells that will be identical for each version.
 
-## How to use the GenerrateReturn module
+## How to use the GenerateReturn module
 
 ### Prerequesites 
 
@@ -49,6 +51,11 @@ If you are an agent and you use this software/scripts, we/I take no responsibili
 - Set the pattern for the candidate return file (Line 61). Curently it is Ward_Name.xlsx
 
 ![Press play or F5 to run](img/img3.PNG)
+
+## Candidate/Agent Declartion
+
+Use the file Declaration.docx and select your candidates file. If you have used the same column headers as dummy_candidates.xlsx, it should pull the data through with no issue on the mailings tab when you choose your data.
+
 
 ## How to use the pdfmaker module
 
