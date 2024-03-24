@@ -8,11 +8,13 @@ This is run using VBA. It has been made on Windows but I can't see why it won't 
 
 If you have any issues please raise an issue here or email sbate[at]mcrlibdems.uk and I will try and help.
 
-### Maybe save the files in the tutorial folder and have a go before you use actual candidate names etc.
+### Maybe save the Dummy Candidates file and have a go before you use actual candidate names etc.
 
 ## Important
 
 If you are an agent and you use this software/scripts, we/I take no responsibility for any errors within excel/pdf files. It is you duty and responsibility to ensure that all election returns are correct beofre submitting them.
+
+If you have found these tools helpful then please consider a donation to the [Manchester Lib Dems](www.mcrlibdems.uk/donate).
 
 ## Before you start
 
@@ -56,6 +58,9 @@ If you are an agent and you use this software/scripts, we/I take no responsibili
 
 Use the file Declaration.docx and select your candidates file. If you have used the same column headers as dummy_candidates.xlsx, it should pull the data through with no issue on the mailings tab when you choose your data.
 
+## Other sheets on the election return
+
+If think you may need to declare a new sheet (copy line 36 to below line 53) and change the sheet number.
 
 ## How to use the pdfmaker module
 
