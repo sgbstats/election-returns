@@ -49,7 +49,7 @@ Sub GenerateReturn()
         wsTemplate.Range("D10").Value = Ward
         wsTemplate.Range("D14").Value = Electorate
         wsTemplate.Range("D18").Value = Name
-        wsTemplate.Range("N20").Value = Limit
+        wsTemplate.Range("M20").Value = Limit
         On Error GoTo 0
         
         If Err.Number <> 0 Then
